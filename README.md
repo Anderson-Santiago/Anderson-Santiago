@@ -1,5 +1,5 @@
 ## Hi 👋
-Bom vê-lo aqui meu nome é Anderson sou estudante de Análise e desenvolvimento de sistemas tenho o foco maior no Back-End, porém já trabalhei um pouco também no Front-End
+Bom vê-lo aqui meu nome é Anderson tenho o foco maior no Back-End, porém já trabalhei um pouco também no Front-End
 
 #### Habilidades
 
